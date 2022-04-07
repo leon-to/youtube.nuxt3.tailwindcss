@@ -1,10 +1,4 @@
 <template>
-  <!-- <div>
-    <NuxtPage />
-  </div> -->
-  <NuxtLayout name="initial" />
+  <!-- <NuxtLayout name="layout" /> -->
+  <NuxtLayout name="component" />
 </template>
-
-<!-- <script lang="ts" setup>
-// import './assets/css/tailwind.css'
-</script> -->
