@@ -4,7 +4,7 @@
     <div class="flex flex-row w-full h-full">  
       <side-nav-bar/>
       <div class="flex flex-col w-full h-full">
-        <tag-banner class="h-10 bg-green-300"/>
+        <tag-banner/>
         <content-list class="flex-0 h-full w-full bg-red-400"/>
       </div>
     </div>

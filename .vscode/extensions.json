@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "hookyqr.beautify",
+    "dbaeumer.vscode-eslint",
+    "compulim.indent4to2",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
