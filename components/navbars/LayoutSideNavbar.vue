@@ -1,5 +1,5 @@
 <template>
   <div>
-    ContentList
+    Side Navbar
   </div>
 </template>
