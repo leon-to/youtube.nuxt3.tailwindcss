@@ -5,7 +5,7 @@
       <navbars-component-side-navbar/>
       <div class="flex flex-col w-full h-full">
         <banners-component-tag-banner/>
-        <lists-component-card-list class="flex-0 h-full w-full bg-red-400"/>
+        <lists-component-card-list/>
       </div>
     </div>
   </div>

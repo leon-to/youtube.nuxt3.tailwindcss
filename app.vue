@@ -2,7 +2,8 @@
 
   <!-- <NuxtPage /> -->
   <!-- <NuxtLayout name="layout" /> -->
-  <NuxtLayout v-bind:name="name" />
+  <NuxtLayout name="component" />
+  <!-- <NuxtLayout v-bind:name="name" /> -->
 </template>
 
 <script>
