@@ -2,15 +2,15 @@
 
   <!-- <NuxtPage /> -->
   <!-- <NuxtLayout name="layout" /> -->
-  <NuxtLayout name="component" />
-  <!-- <NuxtLayout v-bind:name="name" /> -->
+  <NuxtLayout name="detail" />
+  <!-- <NuxtLayout :name="layout" /> -->
 </template>
 
 <script>
 export default {
   data(){
     return {
-      name: 'component'
+      layout: 'detail'
     }
   },
   setup() {
