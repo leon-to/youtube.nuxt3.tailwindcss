@@ -14,11 +14,6 @@
       <div>
       </div>
     </ul>
-    <!-- <svg xmlns="http://www.w3.org/2000/svg" class="right-0 flex w-5 h-5 fill-[#545454]" viewBox="0 0 20 20" fill="currentColor">
-      <path fill-rule="evenodd"
-        d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-        clip-rule="evenodd" />
-    </svg> -->
     <div class="flex w-4 h-4">
       <svg viewBox="0 0 16 16" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon fill-[#fafafa] ">
         <g mirror-in-rtl="" class="style-scope yt-icon">
