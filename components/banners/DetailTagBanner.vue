@@ -1,15 +1,15 @@
 <template>
   <!-- component -->
   <!-- https://tailwindcomponents.com/component/tags -->
-  <div class="flex items-center text-gray-200 bg-gray-800">
+  <div class="flex items-center text-gray-200 bg-gray-800 ">
     
-    <ul class="flex-1 p-3 space-x-2 ">
+    <ul class="flex-1 p-3 space-x-2">
       <li 
         class="inline-flex items-center px-3 py-1 text-xs font-bold text-black bg-gray-200 rounded-full leading-sm">
         All
       </li>
       <li v-for="tag in tags" :key="tag"
-        class="inline-flex items-center px-3 py-1 text-xs font-bold bg-gray-600 rounded-full leading-sm">
+        class="inline-flex items-center px-3 py-1 text-xs font-bold bg-gray-600 rounded-full leading-sm ">
         {{tag}}
       </li>
       <div>
