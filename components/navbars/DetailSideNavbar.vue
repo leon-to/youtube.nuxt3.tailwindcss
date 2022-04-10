@@ -174,15 +174,6 @@
           <a href="#"
             class="flex items-center py-2 pl-5 text-sm font-normal  transition duration-75   hover:bg-[#363636] text-white group">
             <button type="button" class="flex rounded-full">
-              <img class="w-6 h-6 rounded-full" src="~/assets/img/cbc.jpg" alt="user photo">
-            </button>
-            <span class="ml-5">CBC News</span>
-          </a>
-        </li>
-        <li>
-          <a href="#"
-            class="flex items-center py-2 pl-5 text-sm font-normal  transition duration-75   hover:bg-[#363636] text-white group">
-            <button type="button" class="flex rounded-full">
               <img class="w-6 h-6 rounded-full" src="~/assets/img/vice.jpg" alt="user photo">
             </button>
             <span class="ml-5">VICE News</span>
