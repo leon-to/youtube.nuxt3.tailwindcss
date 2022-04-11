@@ -1,7 +1,7 @@
 <template>
   <!-- component -->
   <!-- https://tailwindcomponents.com/component/tags -->
-  <div class="flex items-center text-gray-200 bg-[#202020] border-y border-[#545454] px-4">
+  <div class="flex items-center text-gray-200 bg-[#202020] border-y border-[#444444] px-4">
 
     <ul class="flex-1 p-3 space-x-3">
       <li class="inline-flex items-center px-3 py-1 text-sm  text-black bg-gray-200 rounded-full leading-sm">
