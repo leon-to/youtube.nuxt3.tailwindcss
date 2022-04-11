@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col h-screen">
+  <div class="flex flex-col h-screen text-2xl">
     <navbars-layout-top-navbar class="flex-0 w-screen h-16 bg-blue-500"/>
     <div class="flex flex-row w-full h-full">  
       <navbars-layout-side-navbar class="flex-0 h-full w-44 bg-green-400"/>
