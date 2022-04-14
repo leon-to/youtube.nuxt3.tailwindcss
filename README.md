@@ -1,6 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Youtube clone with Tailwind CSS and Nuxt 3
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+
+
+Original blog post on Medium: [I cloned Youtube with Tailwind CSS in 3 days and you will learn it in 3 minutes!](https://leon101.medium.com/i-cloned-youtube-with-tailwind-css-in-3-days-and-you-will-learn-it-in-3-minutes-a612334f21ff)
+
+![I cloned Youtube with Tailwind CSS in 3 days and you will learn it in 3 minutes!](https://media.giphy.com/media/6wuPSF8jgrIw4ta3dS/giphy.gif)
+
+![Uploading 12-detail.png…]()
 
 ## Setup
 
